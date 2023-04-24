@@ -6,6 +6,7 @@ Refer - how to add custom django-admin command?
 https://docs.djangoproject.com/en/4.2/howto/custom-management-commands/
 """
 
+
 import time
 from MySQLdb import Error
 from django.db.utils import OperationalError
